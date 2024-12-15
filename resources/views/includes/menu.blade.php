@@ -15,7 +15,7 @@
 
                             <nav class="mil-main-menu" id="swupMenu">
                                 <ul>
-                                    <li class="mil-active">
+                                    <li >
                                         <a href="{{ route('home') }}">Home</a>
                                     </li>
                                     {{-- <li>
