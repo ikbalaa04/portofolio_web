@@ -18,9 +18,9 @@
                                     <li class="mil-active">
                                         <a href="{{ route('home') }}">Home</a>
                                     </li>
-                                    <li>
+                                    {{-- <li>
                                         <a href="{{ route('about') }}">About</a>
-                                    </li>
+                                    </li> --}}
                                     <li>
                                         <a href="{{ route('portfolio') }}">Portfolio</a>
                                     </li>

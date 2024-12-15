@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>@yield('title')|Ikbal Abdul Aziz </title>
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/icons/favicon.png') }}">
+    <title>@yield('title') | Ikbal Abdul Aziz </title>
     @include('includes.style')
     @yield('addon-style')
 
