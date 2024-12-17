@@ -20,7 +20,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="mil-personal-text">
-                                    <p class="mil-mb-60">Hello! Iam <b>Ikbal Abdul Aziz</b></p>
+                                    <p class="mil-mb-60">Hello! I'am <b>Ikbal Abdul Aziz</b></p>
                                     <h1 class="mil-mb-60">FrontEnd <br>Developer</h1>
                                     <div class="row justify-content-center">
                                         <div class="col-lg-8">

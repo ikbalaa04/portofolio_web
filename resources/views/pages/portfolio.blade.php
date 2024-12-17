@@ -28,11 +28,36 @@
                                             <div class="mil-descr-text" data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
                                                 <div class="mil-labels mil-mb-15">
                                                     <div class="mil-label mil-upper mil-accent">FrontEnd</div>
-                                                    <div class="mil-label mil-upper">Juli, 2024</div>
+                                                    <div class="mil-label mil-upper"></div>
                                                 </div>
                                                 <h5>Project Monitoring Inspektorat Jenderal - Kominfo</h5>
                                             </div>
                                             <div data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
+                                                <a href="#" class="mil-button mil-arrow-place">
+                                                    <span>View Project</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="swiper-slide">
+
+                                    <div class="mil-portfolio-item mil-slider-item" data-swiper-parallax="-30">
+                                        <div class="mil-cover-frame mil-drag">
+                                            <div class="mil-cover" data-swiper-parallax-scale="1.3">
+                                                <img src="{{ asset('assets/img/portfolio/website/tbc.png') }}" alt="cover">
+                                            </div>
+                                        </div>
+                                        <div class="mil-descr" data-swiper-parallax-x="104%" data-swiper-parallax-opacity="0">
+                                            <div class="mil-descr-text" data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
+                                                <div class="mil-labels mil-mb-15">
+                                                    <div class="mil-label mil-upper mil-accent">UI/UX</div>
+                                                    <div class="mil-label mil-upper"></div>
+                                                </div>
+                                                <h5>Unofficial laportbc.id web redesign</h5>
+                                            </div>
+                                            <div data-swiper-parallax-y="120" data-swiper-parallax-opacity="0">
                                                 <a href="#" class="mil-button mil-arrow-place">
                                                     <span>View Project</span>
                                                 </a>
@@ -53,7 +78,7 @@
                                             <div class="mil-descr-text" data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
                                                 <div class="mil-labels mil-mb-15">
                                                     <div class="mil-label mil-upper mil-accent">Wordpress</div>
-                                                    <div class="mil-label mil-upper">November, 2024</div>
+                                                    <div class="mil-label mil-upper"></div>
                                                 </div>
                                                 <h5>Asian Ecotourism Network (AEN)</h5>
                                             </div>
@@ -78,7 +103,7 @@
                                             <div class="mil-descr-text" data-swiper-parallax-y="100%" data-swiper-parallax-opacity="0">
                                                 <div class="mil-labels mil-mb-15">
                                                     <div class="mil-label mil-upper mil-accent">Wordpress</div>
-                                                    <div class="mil-label mil-upper">November, 2023</div>
+                                                    <div class="mil-label mil-upper"></div>
                                                 </div>
                                                 <h5>Indonesian Ecotourism Network (INDECON)</h5>
                                             </div>
