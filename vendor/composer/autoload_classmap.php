@@ -6,7 +6,9 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'App\\Http\\Controllers\\AppController' => $baseDir . '/app/Http/Controllers/AppController.php',
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
+    'App\\Http\\Middleware\\ValidateExternalUrl' => $baseDir . '/app/Http/Middleware/ValidateExternalUrl.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
@@ -1521,6 +1523,7 @@ return array(
     'Illuminate\\Database\\Events\\MigrationStarted' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/MigrationStarted.php',
     'Illuminate\\Database\\Events\\MigrationsEnded' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/MigrationsEnded.php',
     'Illuminate\\Database\\Events\\MigrationsEvent' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/MigrationsEvent.php',
+    'Illuminate\\Database\\Events\\MigrationsPruned' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/MigrationsPruned.php',
     'Illuminate\\Database\\Events\\MigrationsStarted' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/MigrationsStarted.php',
     'Illuminate\\Database\\Events\\ModelPruningFinished' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/ModelPruningFinished.php',
     'Illuminate\\Database\\Events\\ModelPruningStarting' => $vendorDir . '/laravel/framework/src/Illuminate/Database/Events/ModelPruningStarting.php',
