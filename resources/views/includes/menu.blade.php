@@ -18,14 +18,11 @@
                                     <li >
                                         <a href="{{ route('home') }}">Home</a>
                                     </li>
-                                    {{-- <li>
-                                        <a href="{{ route('about') }}">About</a>
-                                    </li> --}}
                                     <li>
-                                        <a href="{{ route('portfolio') }}">Portfolio</a>
+                                        <a href="{{ route('about') }}">About</a>
                                     </li>
                                     <li>
-                                        <a href="{{ route('service') }}">Service</a>
+                                        <a href="{{ route('portfolio') }}">Portfolio</a>
                                     </li>
                                     <li>
                                         <a href="{{ route('contact') }}">Contact</a>

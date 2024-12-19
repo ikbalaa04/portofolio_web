@@ -27,7 +27,7 @@
 
                                             <span class="mil-suptitle mil-suptitle-dark mil-mb-60">Passionately Creating Design Wonders: <br>Unleashing Boundless Creativity</span>
 
-                                            <a href="#" class="mil-link mil-dark mil-arrow-place">
+                                            <a href="{{ route('about') }}" class="mil-link mil-dark mil-arrow-place">
                                                 <span>More about me</span>
                                             </a>
 
@@ -50,7 +50,7 @@
                                     <ul class="mil-social-icons mil-dark">
                                         <li><a type="button" class="social-icon" data-bs-placement="top" href="#" target="_blank" title="download CV"><i class="fas fa-file-download fa-lg"></i></a></li>
                                         <li><a type="button" class="social-icon" data-bs-placement="top" href="#" target="_blank" title="Github"><i class="fab fa-github fa-lg"></i></a></li>
-                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="#" target="_blank" title="Instagram"><i class="fab fa-instagram fa-lg"></i></a></li>
+                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="mailto:ikbalabdulaziz21@gmail.com" target="_blank" title="Email"><i class="far fa-envelope fa-lg"></i></a></li>
                                         <li><a type="button" class="social-icon" data-bs-placement="top" href="https://www.linkedin.com/in/ikbal-abdul-aziz-25255024b" target="_blank" title="Linkedin"><i class="fab fa-linkedin fa-lg"></i></a></li>
                                     </ul>
                                 </div>

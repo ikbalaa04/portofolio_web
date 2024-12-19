@@ -25,9 +25,4 @@ class AppController extends Controller
     {
         return view('pages.about');
     }
-
-    public function service()
-    {
-        return view('pages.service');
-    }
 }

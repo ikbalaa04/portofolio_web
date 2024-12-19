@@ -12,8 +12,6 @@ Route::get('portfolio', [AppController::class, 'portfolio'])->name('portfolio');
 
 Route::get('about', [AppController::class, 'about'])->name('about');
 
-Route::get('service', [AppController::class, 'service'])->name('service');
-
 Route::get('contact', [AppController::class, 'contact'])->name('contact');
 
 

@@ -60,8 +60,6 @@
         </section>
         <!-- contact form end -->
 
-        <!-- footer -->
-       @include('includes.footer')
         <!-- footer end -->
 
         <!-- hidden elements -->
