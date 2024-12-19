@@ -49,9 +49,9 @@
                                 <div class="mil-social-frame">
                                     <ul class="mil-social-icons mil-dark">
                                         <li><a type="button" class="social-icon" data-bs-placement="top" href="#" target="_blank" title="download CV"><i class="fas fa-file-download fa-lg"></i></a></li>
-                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="{{ url('https://github.com/ikbalaa04') }}" target="_blank" title="Github"><i class="fab fa-github fa-lg"></i></a></li>
-                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="{{ url('https://www.instagram.com/ikbalabdulaziz21') }}" target="_blank" title="Instagram"><i class="fab fa-instagram fa-lg"></i></a></li>
-                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="{{ url('https://www.linkedin.com/in/ikbal-abdul-aziz-25255024b') }}" target="_blank" title="Instagram"><i class="fab fa-linkedin fa-lg"></i></a></li>
+                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="https://github.com/ikbalaa04" target="_blank" title="Github"><i class="fab fa-github fa-lg"></i></a></li>
+                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="https://www.instagram.com/ikbalabdulaziz21" target="_blank" title="Instagram"><i class="fab fa-instagram fa-lg"></i></a></li>
+                                        <li><a type="button" class="social-icon" data-bs-placement="top" href="https://www.linkedin.com/in/ikbal-abdul-aziz-25255024b" target="_blank" title="Linkedin"><i class="fab fa-linkedin fa-lg"></i></a></li>
                                     </ul>
                                 </div>
                                 <a href="{{ route('portfolio') }}" class="mil-button mil-arrow-place">
