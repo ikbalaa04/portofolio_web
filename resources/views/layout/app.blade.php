@@ -20,7 +20,7 @@
 
         @include('includes.cursor')
 
-        {{-- @include('includes.preloader') --}}
+        @include('includes.preloader')
 
         @include('includes.scrollbar')
 
